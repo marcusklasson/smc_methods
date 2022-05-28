@@ -1,1 +1,2 @@
-# smc_methods
+# Sequential Monte Carlo
+Code for course in SMC.
